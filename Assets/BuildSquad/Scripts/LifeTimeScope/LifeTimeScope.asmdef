@@ -1,0 +1,21 @@
+{
+    "name": "LifeTimeScope",
+    "rootNamespace": "",
+    "references": [
+        "GUID:77221876cc6b8244180b96e320b1bcd4",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:719168136077a524b9ee73403cacb0fd",
+        "GUID:f3087497cbe573d419754bf763c4ba0a",
+        "GUID:e119f4cf110536b45a239e124196d02a",
+        "GUID:e9c3bd39c0d58c34f95462a63769af13"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

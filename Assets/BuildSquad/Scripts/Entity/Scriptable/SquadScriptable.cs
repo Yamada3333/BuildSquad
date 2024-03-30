@@ -1,8 +1,9 @@
 ﻿using System.Linq;
+using UnityEngine;
 
 namespace BuildSquad.Scripts.Entity.Scriptable
 {
-    public class SquadScriptable
+    public class SquadScriptable : ScriptableObject
     {
         public GroupScriptable[,] playerGroups = new GroupScriptable[2, 3];
         public GroupScriptable[,] enemyGroups = new GroupScriptable[2, 3];

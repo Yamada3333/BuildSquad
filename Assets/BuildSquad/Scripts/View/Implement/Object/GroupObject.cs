@@ -1,6 +1,4 @@
-﻿using System;
-using BuildSquad.Scripts.Presenter.Interface;
-using R3;
+﻿using BuildSquad.Scripts.Presenter.Interface;
 using UnityEngine;
 
 namespace BuildSquad.Scripts.View.Implement.Object

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a2c362a83ee4f149d561eb7580adf03, type: 3}
+  m_Name: Yeti
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1057701989084014, guid: e306e19206531d247b708261851c2d8a, type: 3}
+  characterName: "\u30A4\u30A8\u30C6\u30A3"
+  health: 10
+  physicAttack: 0
+  physicDefense: 0
+  magicAttack: 0
+  magicDefense: 0
+  speed: 0
+  abilityCost: 0
+  passiveCost: 0
+  abilities:
+  - {fileID: 11400000, guid: fe3526494508a8b4894ce596755572d2, type: 2}
+  passives: []
+  isFlying: 0
+  isFront: 0

@@ -70,3 +70,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/[Aa]ssets/4000_Fantasy_Icons/
+/[Aa]ssets/Fantasy GUI pack/
+/[Aa]ssets/Fantazia Animated 2D Monsters/
+/[Aa]ssets/Plugins/
+/[Aa]ssets/Spine/
+/[Aa]ssets/Spine Examples/
+/[Aa]ssets/SU3DJPFont/
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/BuildSquad/Sprits/
